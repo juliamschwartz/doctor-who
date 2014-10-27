@@ -65,10 +65,10 @@
     </ul>
     <!-- TemplateEndIf --><!-- TemplateBeginIf cond="_document['Show History Sub Menu']" -->
     <ul>
-      <li>1996 Film</li>
-      <li>2005 Revival</li>
-      <li>Origins</li>
-      <li>The Original Series</li>
+      <li><a href="../Show-History/1996-Film.html">1996 Film</a></li>
+      <li><a href="../Show-History/2005-Revival.html">2005 Revival</a></li>
+      <li><a href="../Show-History/Origins.html">Origins</a></li>
+      <li><a href="../Show-History/The-Original-Series.html">The Original Series</a></li>
     </ul>
     <!-- TemplateEndIf --></td>
     <td><!-- TemplateBeginEditable name="Page Content" -->[Page Specific Content]<!-- TemplateEndEditable --></td>
